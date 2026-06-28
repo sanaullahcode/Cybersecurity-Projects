@@ -1,173 +1,277 @@
-<div align="center">
-  <img width="260" height="260" alt="Kali-dragon-icon svg" src="https://github.com/user-attachments/assets/d911b71f-6ad9-45b7-9513-237f83377023" alt="Kali Linux Icon"/>
-  <h1 align="center">Cybersecurity Projects 🐉</h1>
-  <p align="center">70 Cybersecurity Projects, Certification Roadmaps & Resources</p>
-</div>
+<!-- ============================================================
+     CYBERSECURITY PROJECTS — github.com/sanaullahcode
+     ============================================================ -->
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/CarterPerez-dev/Cybersecurity-Projects" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/CarterPerez-dev/Cybersecurity-Projects" alt="forks"/>
-  <img src="https://img.shields.io/github/issues/CarterPerez-dev/Cybersecurity-Projects" alt="issues"/>
-  <img src="https://img.shields.io/github/license/CarterPerez-dev/Cybersecurity-Projects" alt="license"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Cybersecurity-70_Projects-darkblue" alt="projects"/>
-  <img src="https://img.shields.io/badge/Security-Learning_Resources-darkred" alt="resources"/>
-</div>
 
-<div align="center">
-  <a href="https://github.com/sponsors/CarterPerez-dev">
-    <img src="https://img.shields.io/static/v1?label=Contribute&message=%E2%9D%A4&logo=GitHub&color=darkgreen" alt="contribute"/>
-  </a>
-</div>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗  ║
+║   ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝  ║
+║   ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗    ║
+║   ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝    ║
+║   ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗  ║
+║    ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝  ║
+║                                                               ║
+║              [ SECURITY RESEARCH & ENGINEERING ]              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">Made possible by <a href="https://certgames.com"><strong>CertGames</strong></a></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+%7C+Defensive+%7C+AI-Powered+Security;70%2B+Cybersecurity+Projects+%7C+4+Skill+Tiers;Built+for+Learners.+Trusted+by+Practitioners." alt="Typing SVG" />
 
-<h2 align="center"><strong>View Complete Projects:</strong></h2>
-<div align="center">
-  <a href="https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS">
-    <img src="https://img.shields.io/badge/Full_Source_Code-34/70-blue?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
-</div>
+<br/>
 
-<p align="center"><sub><em>Currently building: Self-Hosted Shodan Clone</em></sub></p>
+![Stars](https://img.shields.io/github/stars/sanaullahcode/Cybersecurity-Projects?color=00ff41&style=for-the-badge&logo=github&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/sanaullahcode/Cybersecurity-Projects?color=00b4d8&style=for-the-badge&logo=github&labelColor=0d1117)
+![Issues](https://img.shields.io/github/issues/sanaullahcode/Cybersecurity-Projects?color=ff4444&style=for-the-badge&logo=github&labelColor=0d1117)
+![License](https://img.shields.io/github/license/sanaullahcode/Cybersecurity-Projects?color=9d4edd&style=for-the-badge&labelColor=0d1117)
 
----
+<br/>
 
-## Quick Navigation
+![Projects](https://img.shields.io/badge/PROJECTS-70+-00ff41?style=flat-square&labelColor=0d1117)
+![Tiers](https://img.shields.io/badge/SKILL_TIERS-4-00b4d8?style=flat-square&labelColor=0d1117)
+![Languages](https://img.shields.io/badge/LANGUAGES-8+-9d4edd?style=flat-square&labelColor=0d1117)
+![Domain](https://img.shields.io/badge/DOMAIN-Offensive_+_Defensive-ff4444?style=flat-square&labelColor=0d1117)
 
-### [Projects](#projects)
-Hands-on cybersecurity projects with full source code, organized in four tiers — **Foundations** (pre-beginner, first-time programmers), **Beginner**, **Intermediate**, and **Advanced**.
-
-### [Certification Roadmaps](./ROADMAPS/README.md)
-10 structured career paths with certification guides for SOC Analyst, Pentester, Security Engineer, and more.
-
-### [Learning Resources](./RESOURCES/README.md)
-Tools, courses, certifications, communities, and frameworks for cybersecurity professionals.
-
----
-
-# Projects
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Foundations-5DEFD0?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=5DEFD0" alt="Foundations"/>
-  <img src="https://img.shields.io/badge/Beginner-2EA44F?style=for-the-badge&logo=leaflet&logoColor=white" alt="Beginner"/>
-  <img src="https://img.shields.io/badge/Intermediate-D4A017?style=for-the-badge&logo=target&logoColor=white" alt="Intermediate"/>
-  <img src="https://img.shields.io/badge/Advanced-C73E3A?style=for-the-badge&logo=shield&logoColor=white" alt="Advanced"/>
 </div>
 
 ---
 
-## Foundations Projects
+<div align="center">
 
-> [!NOTE]
-> **Start here if this is your first time coding.** The Foundations tier is *pre-beginner* — built for someone who has never written Python, has barely used a terminal, and is new to cybersecurity. Source files are heavily commented as a teaching aid, and every `learn/` folder explains concepts from zero. Once you're comfortable here, the Beginner projects assume you already know the language and move faster.
->
-> **What makes Foundations different:**
-> - **Single-file projects** — the entire tool lives in one readable Python file. No file-hopping.
-> - **Heavy teaching comments** — every line that introduces a new concept is annotated inline.
-> - **Numpy-style docstrings on every function** — what it does, why it exists, every parameter.
-> - **Extra-deep `learn/` folders** — Python features and security concepts both explained from zero.
-> - **Senior-level code, beginner-level explanations** — the code itself is still production-quality.
+```
+┌─────────────────────────────────────────────────┐
+│  > whoami                                       │
+│                                                 │
+│  Sana Ullah                                     │
+│  Software Engineer | Cybersecurity Researcher   │
+│  AI/ML Practitioner | FUUAST Islamabad          │
+│                                                 │
+│  Google Cybersecurity Professional ✓            │
+│  Microsoft SC-200 ✓                             │
+│  CodeAlpha Cybersecurity Internship ✓           │
+└─────────────────────────────────────────────────┘
+```
 
-| Project | Info | What You'll Learn |
-|---------|------|-------------------|
-| **[Hash Identifier](./PROJECTS/foundations/hash-identifier)**<br>Identify hash types by prefix, length, and charset | ![Step 1/3](https://img.shields.io/badge/Step-1%2F3_easiest-2EA44F?style=flat&logo=bookstack&logoColor=white) ![2-4h](https://img.shields.io/badge/⏱️_2--4h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Foundations](https://img.shields.io/badge/●_Foundations-00C9A7) | Hash families (MD5, SHA, bcrypt, Argon2) • PHC string format • Pattern matching • Pure-function design<br>[Source Code](./PROJECTS/foundations/hash-identifier) \| [Docs](./PROJECTS/foundations/hash-identifier/learn) |
-| **[HTTP Headers Scanner](./PROJECTS/foundations/http-headers-scanner)**<br>Audit a URL's response headers for missing or weak security controls | ![Step 2/3](https://img.shields.io/badge/Step-2%2F3_stepping_up-D4A017?style=flat&logo=bookstack&logoColor=white) ![3-5h](https://img.shields.io/badge/⏱️_3--5h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Foundations](https://img.shields.io/badge/●_Foundations-00C9A7) | HTTP fundamentals • Security headers (CSP, HSTS, X-Frame-Options) • httpx requests • Scored audits<br>[Source Code](./PROJECTS/foundations/http-headers-scanner) \| [Docs](./PROJECTS/foundations/http-headers-scanner/learn) |
-| **[Password Manager](./PROJECTS/foundations/password-manager)**<br>Encrypted local vault with master password unlock | ![Step 3/3](https://img.shields.io/badge/Step-3%2F3_hardest-C73E3A?style=flat&logo=bookstack&logoColor=white) ![6-8h](https://img.shields.io/badge/⏱️_6--8h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Foundations](https://img.shields.io/badge/●_Foundations-00C9A7) | Argon2id key derivation • AES-GCM authenticated encryption • Secure on-disk vaults • Master-password workflows<br>[Source Code](./PROJECTS/foundations/password-manager) \| [Docs](./PROJECTS/foundations/password-manager/learn) |
-
----
-
-## Beginner Projects
-
-| Project | Info | What You'll Learn |
-|---------|------|-------------------|
-| **[Simple Port Scanner](./PROJECTS/beginner/simple-port-scanner)**<br>Async TCP port scanner in C++ [@deniskhud](https://github.com/deniskhud) | ![2-4h](https://img.shields.io/badge/⏱️_4--5h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | TCP socket programming • Async I/O patterns • Service detection<br>[Source Code](./PROJECTS/beginner/simple-port-scanner) \| [Docs](./PROJECTS/beginner/simple-port-scanner/learn) |
-| **[Keylogger](./PROJECTS/beginner/keylogger)**<br>Capture keyboard events with timestamps | ![1-2h](https://img.shields.io/badge/⏱️_4--5h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Event handling • File I/O • Ethical considerations<br>[Source Code](./PROJECTS/beginner/keylogger) \| [Docs](./PROJECTS/beginner/keylogger/learn) |
-| **[Caesar Cipher](./PROJECTS/beginner/caesar-cipher)**<br>CLI encryption/decryption tool | ![1-2h](https://img.shields.io/badge/⏱️_4--5h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Classical cryptography • Brute force attacks • CLI design<br>[Source Code](./PROJECTS/beginner/caesar-cipher) \| [Docs](./PROJECTS/beginner/caesar-cipher/learn) |
-| **[DNS Lookup CLI Tool](./PROJECTS/beginner/dns-lookup)**<br>Query DNS records with WHOIS | ![2-3h](https://img.shields.io/badge/⏱️_6--7h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | DNS protocols • WHOIS queries • Reverse DNS lookup<br>[Source Code](./PROJECTS/beginner/dns-lookup) \| [Docs](./PROJECTS/beginner/dns-lookup/learn) |
-| **[Simple Vulnerability Scanner](./PROJECTS/beginner/simple-vulnerability-scanner)**<br>Check software against CVE databases | ![3-4h](https://img.shields.io/badge/⏱️_12--14h-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | CVE databases • Dependency scanning • Vulnerability assessment<br>[Source Code](./PROJECTS/beginner/simple-vulnerability-scanner) \| [Docs](./PROJECTS/beginner/simple-vulnerability-scanner/learn) |
-| **[Metadata Scrubber Tool](./PROJECTS/beginner/metadata-scrubber-tool)**<br>Remove EXIF and privacy metadata [@Heritage-XioN](https://github.com/Heritage-XioN) | ![2-3h](https://img.shields.io/badge/⏱️_10--12h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | EXIF data • Privacy protection • Batch processing<br>[Source Code](./PROJECTS/beginner/metadata-scrubber-tool) \| [Docs](./PROJECTS/beginner/metadata-scrubber-tool/learn) |
-| **[Network Traffic Analyzer](./PROJECTS/beginner/network-traffic-analyzer)**<br>Capture and analyze packets | ![3-5h](https://img.shields.io/badge/⏱️_10--12h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Packet capture • Protocol analysis • Traffic visualization<br>[Source (C++)](./PROJECTS/beginner/network-traffic-analyzer/cpp) \| [Docs (C++)](./PROJECTS/beginner/network-traffic-analyzer/cpp/learn) \| [Source (Python)](./PROJECTS/beginner/network-traffic-analyzer/python) \| [Docs (Python)](./PROJECTS/beginner/network-traffic-analyzer/python/learn) |
-| **[Hash Cracker](./PROJECTS/beginner/hash-cracker)**<br>Dictionary and brute-force cracking | ![3-4h](https://img.shields.io/badge/⏱️_5--6h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Hash algorithms • Dictionary attacks • Password security<br>[Source Code](./PROJECTS/beginner/hash-cracker) \| [Docs](./PROJECTS/beginner/hash-cracker/learn) |
-| **[Steganography Multi-Tool](./SYNOPSES/beginner/Steganography.Multi.Tool.md)**<br>Hide data in images, audio, QR, PDFs, text | ![2-3h](https://img.shields.io/badge/⏱️_8--10h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Multi-format steganography • Zero-width Unicode • Audio LSB • QR exploitation<br>[Learn More](./SYNOPSES/beginner/Steganography.Multi.Tool.md) |
-| **[Ghost on the Wire](./SYNOPSES/beginner/Ghost.On.The.Wire.md)**<br>L2 attack & defense: MAC spoofing + ARP detection | ![2-3h](https://img.shields.io/badge/⏱️_6--8h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | ARP protocol • MAC spoofing • MITM detection • L2 trust mapping<br>[Learn More](./SYNOPSES/beginner/Ghost.On.The.Wire.md) |
-| **[Canary Token Generator](./PROJECTS/beginner/canary-token-generator)**<br>Self-hosted honeytokens that alert on access | ![2-3h](https://img.shields.io/badge/⏱️_8--10h-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Deception defense • Honeytokens • MySQL wire protocol • PDF/DOCX patching • Webhook + Telegram alerting<br>[Source Code](./PROJECTS/beginner/canary-token-generator) \| [Docs](./PROJECTS/beginner/canary-token-generator/learn)<br>[![iglowinthedark.com](https://img.shields.io/badge/iglowinthedark.com-8B5CF6?style=flat&logo=googlechrome&logoColor=white)](https://iglowinthedark.com/) |
-| **[Security News Scraper](./SYNOPSES/beginner/Security.News.Scraper.md)**<br>Aggregate cybersecurity news | ![3-4h](https://img.shields.io/badge/⏱️_10--14h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Web scraping • CVE parsing • Database storage<br>[Learn More](./SYNOPSES/beginner/Security.News.Scraper.md) |
-| **[Phishing Domain Generator & Quishing Scanner](./SYNOPSES/beginner/Phishing.Domain.Generator.And.Quishing.Scanner.md)**<br>Typosquat generation + QR phishing detection | ![2-3h](https://img.shields.io/badge/⏱️_6--8h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Homoglyph attacks • Typosquatting • QR code analysis • Domain intelligence<br>[Learn More](./SYNOPSES/beginner/Phishing.Domain.Generator.And.Quishing.Scanner.md) |
-| **[SSH Brute Force Detector](./SYNOPSES/beginner/SSH.Brute.Force.Detector.md)**<br>Monitor and block SSH attacks | ![2-4h](https://img.shields.io/badge/⏱️_2--4h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Log parsing • Attack detection • Firewall automation<br>[Learn More](./SYNOPSES/beginner/SSH.Brute.Force.Detector.md) |
-| **[Simple C2 Beacon](./PROJECTS/beginner/c2-beacon)**<br>Command and Control beacon/server | ![3-5h](https://img.shields.io/badge/⏱️_10--12h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | C2 architecture • MITRE ATT&CK • WebSocket protocol • XOR encoding<br>[Source Code](./PROJECTS/beginner/c2-beacon) \| [Docs](./PROJECTS/beginner/c2-beacon/learn) |
-| **[Base64 Encoder/Decoder](./SYNOPSES/beginner/Base64.Encoder.Decoder.md)**<br>Multi-format encoding tool | ![1h](https://img.shields.io/badge/⏱️_2h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Base64/32 encoding • URL encoding • Auto-detection<br>[Source Code](./PROJECTS/beginner/base64-tool) \| [Docs](./PROJECTS/beginner/base64-tool/learn) |
-| **[Linux CIS Hardening Auditor](./PROJECTS/beginner/linux-cis-hardening-auditor)**<br>CIS benchmark compliance checker | ![3-4h](https://img.shields.io/badge/⏱️_6--8h-blue) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | CIS benchmarks • System hardening • Compliance scoring • Shell scripting<br>[Source Code](./PROJECTS/beginner/linux-cis-hardening-auditor) \| [Docs](./PROJECTS/beginner/linux-cis-hardening-auditor/learn) |
-| **[Systemd Persistence Scanner](./PROJECTS/beginner/systemd-persistence-scanner)**<br>Hunt Linux persistence mechanisms | ![2-3h](https://img.shields.io/badge/⏱️_6--8h-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Persistence techniques • Systemd internals • Cron analysis • Threat hunting<br>[Source Code](./PROJECTS/beginner/systemd-persistence-scanner) \| [Docs](./PROJECTS/beginner/systemd-persistence-scanner/learn) |
-| **[Linux eBPF Security Tracer](./PROJECTS/beginner/linux-ebpf-security-tracer)**<br>Real-time syscall tracing with eBPF | ![2-3h](https://img.shields.io/badge/⏱️_10--12h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | eBPF programs • Syscall tracing • BCC framework • Security observability<br>[Source Code](./PROJECTS/beginner/linux-ebpf-security-tracer) \| [Docs](./PROJECTS/beginner/linux-ebpf-security-tracer/learn) |
-| **[Trojan Application Builder](./SYNOPSES/beginner/Trojan.Application.Builder.md)**<br>Educational malware lifecycle demo | ![2-3h](https://img.shields.io/badge/⏱️_8--10h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Trojan anatomy • Data exfiltration • File encryption • Attack lifecycle<br>[Learn More](./SYNOPSES/beginner/Trojan.Application.Builder.md) |
-| **[DNS Sinkhole](./SYNOPSES/beginner/DNS.Sinkhole.md)**<br>Pi-hole-style malware domain blocker | ![3-4h](https://img.shields.io/badge/⏱️_10--12h-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | DNS protocol • Blocklist management • Query logging • Network defense<br>[Learn More](./SYNOPSES/beginner/DNS.Sinkhole.md) |
-| **[Firewall Rule Engine](./PROJECTS/beginner/firewall-rule-engine)**<br>Parse and validate iptables/nftables rules | ![2-3h](https://img.shields.io/badge/⏱️_6--8h-blue) ![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | Firewall internals • Rule parsing • iptables/nftables • V language<br>[Source Code](./PROJECTS/beginner/firewall-rule-engine) \| [Docs](./PROJECTS/beginner/firewall-rule-engine/learn) |
-| **[LLM Prompt Injection Firewall](./SYNOPSES/beginner/LLM.Prompt.Injection.Firewall.md)**<br>Detect and block prompt injection attacks | ![2-3h](https://img.shields.io/badge/⏱️_8--10h-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | AI security • Prompt injection • Input sanitization • LLM defense<br>[Learn More](./SYNOPSES/beginner/LLM.Prompt.Injection.Firewall.md) |
-
-## Intermediate Projects
-
-| Project | Info | What You'll Learn |
-|---------|------|-------------------|
-| **[Payload Obfuscation Engine](./SYNOPSES/intermediate/Payload.Obfuscation.Engine.md)**<br>Multi-layer payload obfuscation toolkit | ![2-4d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Obfuscation techniques • Polymorphism • AV evasion • Signature detection<br>[Learn More](./SYNOPSES/intermediate/Payload.Obfuscation.Engine.md) |
-| **[SIEM Dashboard](./SYNOPSES/intermediate/SIEM.Dashboard.md)**<br>Log aggregation with correlation | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | SIEM concepts • Log correlation • Full-stack development<br>[Source Code](./PROJECTS/intermediate/siem-dashboard) \| [Docs](./PROJECTS/intermediate/siem-dashboard/learn)<br>[![siem.carterperez-dev.com](https://img.shields.io/badge/siem.carterperez--dev.com-3FB950?style=flat&logo=googlechrome&logoColor=white)](https://siem.carterperez-dev.com/) |
-| **[Token Abuse Playground](./SYNOPSES/intermediate/Token.Abuse.Playground.md)**<br>15+ token vulnerabilities to exploit and fix | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | JWT exploitation • OAuth attacks • Session security • Token forensics<br>[Learn More](./SYNOPSES/intermediate/Token.Abuse.Playground.md) |
-| **[Supply Chain Attack Simulator](./SYNOPSES/intermediate/Supply.Chain.Attack.Simulator.md)**<br>Fake PyPI package dependency confusion demo | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Supply chain attacks • Dependency confusion • Package security • PyPI internals<br>[Learn More](./SYNOPSES/intermediate/Supply.Chain.Attack.Simulator.md) |
-| **[DDoS Mitigation Tool](./SYNOPSES/intermediate/DDoS.Mitigation.Tool.md)**<br>Detect traffic spikes | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | DDoS detection • Rate limiting • Anomaly detection<br>[Learn More](./SYNOPSES/intermediate/DDoS.Mitigation.Tool.md) |
-| **[Secrets Scanner](./PROJECTS/intermediate/secrets-scanner)**<br>Scan codebases and git history for leaked secrets | ![1-2d](https://img.shields.io/badge/⏱️_1--2d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Secret detection • Shannon entropy • HIBP k-anonymity • SARIF output<br>[Source Code](./PROJECTS/intermediate/secrets-scanner) \| [Docs](./PROJECTS/intermediate/secrets-scanner/learn) |
-| **[API Security Scanner](./PROJECTS/intermediate/api-security-scanner)**<br>Enterprise API vulnerability scanner | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | OWASP API Top 10 • ML fuzzing • GraphQL/SOAP testing<br>[Source Code](./PROJECTS/intermediate/api-security-scanner) \| [Docs](./PROJECTS/intermediate/api-security-scanner/learn) |
-| **[Wireless Deauth Detector](./SYNOPSES/intermediate/Wireless.Deauth.Detector.md)**<br>Monitor WiFi deauth attacks | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Wireless security • Packet sniffing • Attack detection<br>[Learn More](./SYNOPSES/intermediate/Wireless.Deauth.Detector.md) |
-| **[Credential Enumeration](./PROJECTS/intermediate/credential-enumeration)**<br>Post-exploitation credential collection | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=black) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Credential extraction • Browser forensics • Red team tooling • Nim language<br>[Source Code](./PROJECTS/intermediate/credential-enumeration) \| [Docs](./PROJECTS/intermediate/credential-enumeration/learn) |
-| **[Binary Analysis Tool](./PROJECTS/intermediate/binary-analysis-tool)**<br>Disassemble and analyze executables | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Binary analysis • String extraction • Malware detection<br>[Source Code](./PROJECTS/intermediate/binary-analysis-tool) \| [Docs](./PROJECTS/intermediate/binary-analysis-tool/learn)<br>[![axumortem.carterperez-dev.com](https://img.shields.io/badge/axumortem.carterperez--dev.com-E8730C?style=flat&logo=googlechrome&logoColor=white)](https://axumortem.carterperez-dev.com/) |
-| **[Chaos Engineering Security Tool](./SYNOPSES/intermediate/Chaos.Engineering.Security.Tool.md)**<br>Inject security failures to test resilience | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Chaos engineering • Security resilience • Credential spraying • Auth testing<br>[Learn More](./SYNOPSES/intermediate/Chaos.Engineering.Security.Tool.md) |
-| **[Credential Rotation Enforcer](./SYNOPSES/intermediate/Credential.Rotation.Enforcer.md)**<br>Track and enforce credential rotation policies | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Credential hygiene • Secret rotation • Compliance dashboards • API integration<br>[Source Code](./PROJECTS/intermediate/credential-rotation-enforcer) \| [Docs](./PROJECTS/intermediate/credential-rotation-enforcer/learn) |
-| **[Race Condition Exploiter](./SYNOPSES/intermediate/Race.Condition.Exploiter.md)**<br>TOCTOU race condition attack & defense lab | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | TOCTOU attacks • Double-spend bugs • Concurrent exploitation • Race visualization<br>[Learn More](./SYNOPSES/intermediate/Race.Condition.Exploiter.md) |
-| **[Self-Hosted Shodan Clone](./SYNOPSES/intermediate/Self.Hosted.Shodan.Clone.md)**<br>Internet-connected device search engine | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Service fingerprinting • Network scanning • OSINT • Search engine design<br>[Learn More](./SYNOPSES/intermediate/Self.Hosted.Shodan.Clone.md) |
-| **[JA3/JA4 TLS Fingerprinting Tool](./SYNOPSES/intermediate/JA3.JA4.TLS.Fingerprinting.Tool.md)**<br>Fingerprint TLS clients by handshake | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | TLS handshake analysis • JA3/JA4 hashing • Bot detection • Malware C2 identification<br>[Source Code](./PROJECTS/intermediate/ja3-ja4-tls-fingerprinting) \| [Docs](./PROJECTS/intermediate/ja3-ja4-tls-fingerprinting/learn)<br>[![mkultraalumni.com](https://img.shields.io/badge/mkultraalumni.com-E8730C?style=flat&logo=googlechrome&logoColor=white)](https://mkultraalumni.com/) |
-| **[Mobile App Security Analyzer](./SYNOPSES/intermediate/Mobile.App.Security.Analyzer.md)**<br>Decompile and analyze mobile apps | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | APK/IPA analysis • Reverse engineering • OWASP Mobile<br>[Learn More](./SYNOPSES/intermediate/Mobile.App.Security.Analyzer.md) |
-| **[DLP Scanner](./PROJECTS/intermediate/dlp-scanner)**<br>Data Loss Prevention for files, DBs, and traffic | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | PII detection • GDPR/HIPAA compliance • Pattern matching • Data classification<br>[Source Code](./PROJECTS/intermediate/dlp-scanner) \| [Docs](./PROJECTS/intermediate/dlp-scanner/learn) |
-| **[Lua/Nginx Edge Backend](./SYNOPSES/intermediate/Lua.Nginx.Edge.Backend.md)**<br>Full CRUD backend via Lua in Nginx | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Edge computing • OpenResty • Lua scripting • WAF • JWT at the edge<br>[Learn More](./SYNOPSES/intermediate/Lua.Nginx.Edge.Backend.md) |
-| **[Privesc Playground](./SYNOPSES/intermediate/Privesc.Playground.md)**<br>20+ privilege escalation paths to exploit | ![3-5d](https://img.shields.io/badge/⏱️_3--5d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | SUID exploitation • Sudo abuse • Cron hijacking • GTFOBins • Capability abuse<br>[Learn More](./SYNOPSES/intermediate/Privesc.Playground.md) |
-| **[SBOM Generator & Vulnerability Matcher](./PROJECTS/intermediate/sbom-generator-vulnerability-matcher)**<br>Software Bill of Materials with CVE matching | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | SPDX/CycloneDX formats • Dependency analysis • CVE databases • EO 14028 compliance<br>[Source Code](./PROJECTS/intermediate/sbom-generator-vulnerability-matcher) \| [Docs](./PROJECTS/intermediate/sbom-generator-vulnerability-matcher/learn) |
-| **[Subdomain Takeover Scanner](./SYNOPSES/intermediate/Subdomain.Takeover.Scanner.md)**<br>Detect dangling DNS records | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | DNS enumeration • CNAME analysis • Cloud resource claiming • Bug bounty<br>[Learn More](./SYNOPSES/intermediate/Subdomain.Takeover.Scanner.md) |
-| **[GraphQL Security Tester](./SYNOPSES/intermediate/GraphQL.Security.Tester.md)**<br>Automated GraphQL vulnerability testing | ![2-4d](https://img.shields.io/badge/⏱️_2--4d-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | Introspection attacks • Query depth DoS • Authorization bypass • Batching abuse<br>[Learn More](./SYNOPSES/intermediate/GraphQL.Security.Tester.md) |
-| **[Docker Security Audit](./PROJECTS/intermediate/docker-security-audit)**<br>CIS Docker Benchmark scanner | ![1-2d](https://img.shields.io/badge/⏱️_1--2d-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Intermediate](https://img.shields.io/badge/●_Intermediate-yellow) | CIS benchmarks • Container security • Multiple output formats<br>[Source Code](./PROJECTS/intermediate/docker-security-audit) \| [Docs](./PROJECTS/intermediate/docker-security-audit/learn) |
-
-## Advanced Projects
-
-| Project | Info | What You'll Learn |
-|---------|------|-------------------|
-| **[API Rate Limiter](./PROJECTS/advanced/api-rate-limiter)**<br>Distributed rate limiting middleware | ![1w](https://img.shields.io/badge/⏱️_1w-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Token bucket algorithm • Distributed systems • Redis backend<br>[Source Code](./PROJECTS/advanced/api-rate-limiter) \| [Docs](./PROJECTS/advanced/api-rate-limiter/learn) |
-| **[Encrypted Chat Application](./PROJECTS/advanced/encrypted-p2p-chat)**<br>Real-time E2EE messaging | ![1-2w](https://img.shields.io/badge/⏱️_1--2w-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Signal Protocol • Double Ratchet • WebAuthn • WebSockets<br>[Source Code](./PROJECTS/advanced/encrypted-p2p-chat) \| [Docs](./PROJECTS/advanced/encrypted-p2p-chat/learn) |
-| **[Exploit Development Framework](./SYNOPSES/advanced/Exploit.Development.Framework.md)**<br>Modular exploitation framework | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Exploit development • Payload generation • Plugin architecture<br>[Learn More](./SYNOPSES/advanced/Exploit.Development.Framework.md) |
-| **[AI Threat Detection](./PROJECTS/advanced/ai-threat-detection)**<br>ML-powered nginx threat detection | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | ML ensemble (AE + RF + IF) • ONNX inference • Real-time detection<br>[Source Code](./PROJECTS/advanced/ai-threat-detection) \| [Docs](./PROJECTS/advanced/ai-threat-detection/learn) |
-| **[Bug Bounty Platform](./PROJECTS/advanced/bug-bounty-platform)**<br>Full vulnerability disclosure platform | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Full-stack development • CVSS scoring • Workflow automation<br>[Source Code](./PROJECTS/advanced/bug-bounty-platform) \| [Docs](./PROJECTS/advanced/bug-bounty-platform/learn)<br>[![bugbounty.carterperez-dev.com](https://img.shields.io/badge/bugbounty.carterperez--dev.com-3FB950?style=flat&logo=googlechrome&logoColor=white)](https://bugbounty.carterperez-dev.com/) |
-| **[Cloud Security Compliance Dashboard](./SYNOPSES/advanced/Cloud.Security.Compliance.Dashboard.md)**<br>Multi-cloud compliance with CIS, SOC2, HIPAA | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | CIS benchmarks • SOC2/HIPAA compliance • Cost-security optimization • Drift detection<br>[Learn More](./SYNOPSES/advanced/Cloud.Security.Compliance.Dashboard.md) |
-| **[Malware Analysis Platform](./SYNOPSES/advanced/Malware.Analysis.Platform.md)**<br>Automated sandbox analysis | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Malware analysis • Sandboxing • YARA rules • IOC extraction<br>[Learn More](./SYNOPSES/advanced/Malware.Analysis.Platform.md) |
-| **[Quantum Resistant Encryption](./SYNOPSES/advanced/Quantum.Resistant.Encryption.md)**<br>Post-quantum cryptography | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Post-quantum algorithms • Hybrid encryption • Kyber/Dilithium<br>[Learn More](./SYNOPSES/advanced/Quantum.Resistant.Encryption.md) |
-| **[Zero Day Vulnerability Scanner](./SYNOPSES/advanced/Zero.Day.Vulnerability.Scanner.md)**<br>Coverage-guided fuzzing | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Fuzzing • Vulnerability research • Crash triage<br>[Learn More](./SYNOPSES/advanced/Zero.Day.Vulnerability.Scanner.md) |
-| **[Distributed Password Cracker](./SYNOPSES/advanced/Distributed.Password.Cracker.md)**<br>GPU-accelerated cracking | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Distributed systems • GPU computing • Hash cracking<br>[Learn More](./SYNOPSES/advanced/Distributed.Password.Cracker.md) |
-| **[Kernel Rootkit Detection](./SYNOPSES/advanced/Kernel.Rootkit.Detection.md)**<br>Detect kernel-level rootkits | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Kernel internals • Memory forensics • Rootkit detection<br>[Learn More](./SYNOPSES/advanced/Kernel.Rootkit.Detection.md) |
-| **[Blockchain Smart Contract Auditor](./SYNOPSES/advanced/Blockchain.Smart.Contract.Auditor.md)**<br>Solidity vulnerability analysis | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Smart contracts • Static analysis • Solidity security<br>[Learn More](./SYNOPSES/advanced/Blockchain.Smart.Contract.Auditor.md) |
-| **[Adversarial ML Attacker](./SYNOPSES/advanced/Adversarial.ML.Attacker.md)**<br>Generate adversarial examples | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Adversarial ML • FGSM/DeepFool • Model robustness<br>[Learn More](./SYNOPSES/advanced/Adversarial.ML.Attacker.md) |
-| **[Advanced Persistent Threat Simulator](./SYNOPSES/advanced/Advanced.Persistent.Threat.Simulator.md)**<br>Multi-stage APT simulation | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | APT techniques • C2 infrastructure • Lateral movement<br>[Learn More](./SYNOPSES/advanced/Advanced.Persistent.Threat.Simulator.md) |
-| **[Hardware Security Module Emulator](./PROJECTS/advanced/hsm-emulator)**<br>Software HSM that compiles to a real PKCS#11 `.so` | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | PKCS#11/Cryptoki C ABI (machine-checked vs OASIS headers) • AES-GCM/CBC • RSA/ECDSA/ECDH • Argon2id + encrypted-at-rest • driven by `pkcs11-tool`<br>[Source Code](./PROJECTS/advanced/hsm-emulator) \| [Docs](./PROJECTS/advanced/hsm-emulator/learn) |
-| **[Network Covert Channel](./SYNOPSES/advanced/Network.Covert.Channel.md)**<br>Data exfiltration techniques | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Covert channels • Data exfiltration • Steganography<br>[Learn More](./SYNOPSES/advanced/Network.Covert.Channel.md) |
-| **[Automated Penetration Testing](./SYNOPSES/advanced/Automated.Penetration.Testing.md)**<br>Full pentest automation | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Pentest automation • Recon to exploitation • Report generation<br>[Learn More](./SYNOPSES/advanced/Automated.Penetration.Testing.md) |
-| **[Haskell Reverse Proxy](./PROJECTS/advanced/haskell-reverse-proxy)**<br>Functional reverse proxy with security middleware | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Functional programming • Reverse proxy design • Security middleware • Haskell<br>[Source Code](./PROJECTS/advanced/haskell-reverse-proxy) |
-| **["Monitor the Situation" Dashboard](./PROJECTS/advanced/monitor-the-situation-dashboard)**<br>Real-time cyber threat situational awareness | ![3-4w](https://img.shields.io/badge/⏱️_3--4w-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Threat intel feeds • EPSS/KEV/CVE velocity • BGP hijacks • WebSocket fan-out • 3D globe SOC view<br>[Source Code](./PROJECTS/advanced/monitor-the-situation-dashboard) \| [Docs](./PROJECTS/advanced/monitor-the-situation-dashboard/learn)<br>[![iminthewalls.com](https://img.shields.io/badge/iminthewalls.com-8B5CF6?style=flat&logo=googlechrome&logoColor=white)](https://iminthewalls.com/) |
-| **[Honeypot Network](./PROJECTS/advanced/honeypot-network)**<br>Multi-service honeypot deployment & analysis | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Honeypot deployment • Attacker behavior analysis • IOC extraction • MITRE mapping<br>[Source Code](./PROJECTS/advanced/honeypot-network) \| [Docs](./PROJECTS/advanced/honeypot-network/learn)<br>[![honeypot-network.carterperez-dev.com](https://img.shields.io/badge/honeypot--network.carterperez--dev.com-8B5CF6?style=flat&logo=googlechrome&logoColor=white)](https://honeypot-network.carterperez-dev.com/) |
-| **[Supply Chain Security Analyzer](./SYNOPSES/advanced/Supply.Chain.Security.Analyzer.md)**<br>Dependency vulnerability analysis | ![2-3w](https://img.shields.io/badge/⏱️_2--3w-blue) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Advanced](https://img.shields.io/badge/●_Advanced-red) | Supply chain security • Dependency analysis • Malicious packages<br>[Learn More](./SYNOPSES/advanced/Supply.Chain.Security.Analyzer.md) |
+</div>
 
 ---
 
-## Learn More
+## `> cat MISSION.txt`
 
-**[Certification Roadmaps](./ROADMAPS/README.md)** - Career paths for SOC Analyst, Pentester, Security Engineer, GRC Analyst, and 6 more tracks
+This repository is a **structured, hands-on cybersecurity engineering curriculum** — not a link dump. Every project here is production-quality code paired with deep learning documentation. From your first Python script to kernel-level rootkit detection, every step is mapped.
 
-**[Learning Resources](./RESOURCES/README.md)** - Tools, courses, certifications, YouTube channels, Reddit communities, and security frameworks
+**Who this is for:**
+- Students starting from zero with no prior coding background
+- Developers transitioning into security
+- Security practitioners looking for reference implementations
+- Researchers exploring offensive + defensive tooling
 
+---
 
-## License
+## `> ls -la NAVIGATION/`
 
-AGPL 3.0
+| Directory | Contents |
+|-----------|----------|
+| [`/PROJECTS`](#-projects) | Full source code — 34 of 70 projects live |
+| [`/ROADMAPS`](./ROADMAPS/README.md) | 10 career paths: SOC, Pentester, Security Engineer and more |
+| [`/RESOURCES`](./RESOURCES/README.md) | Tools, certs, communities, frameworks |
+
+---
+
+## `> tree SKILL_TIERS/`
+
+```
+SKILL_TIERS/
+├── FOUNDATIONS/   ← Never coded before? Start here.
+├── BEGINNER/      ← Know Python basics? Level up here.
+├── INTERMEDIATE/  ← Ready for multi-day builds?
+└── ADVANCED/      ← Production-grade. Weeks of work.
+```
+
+---
+
+## `> ./run PROJECTS`
+
+<br/>
+
+### `[ TIER 0 ] — FOUNDATIONS`
+
+> **Zero prior experience required.** Every function has numpy-style docstrings. Every concept explained inline. Single-file projects. Senior-quality code. Beginner-quality explanations.
+
+```
+STATUS  PROJECT                     STACK      TIME      WHAT YOU MASTER
+──────────────────────────────────────────────────────────────────────────
+[LIVE]  Hash Identifier             Python     2-4h      MD5/SHA/bcrypt families
+[LIVE]  HTTP Headers Scanner        Python     3-5h      CSP, HSTS, X-Frame security
+[LIVE]  Password Manager            Python     6-8h      AES-GCM, Argon2id, vaults
+```
+
+| Project | Stack | Time | Core Concepts |
+|---------|-------|------|---------------|
+| **[Hash Identifier](./PROJECTS/foundations/hash-identifier)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2-4h` | Hash families • PHC format • Pattern matching |
+| **[HTTP Headers Scanner](./PROJECTS/foundations/http-headers-scanner)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `3-5h` | Security headers • httpx • Scored audits |
+| **[Password Manager](./PROJECTS/foundations/password-manager)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `6-8h` | AES-GCM • Argon2id • Encrypted vaults |
+
+---
+
+### `[ TIER 1 ] — BEGINNER`
+
+> Language basics assumed. Projects move faster. Real security tooling.
+
+| Project | Stack | Time | Core Concepts |
+|---------|-------|------|---------------|
+| **[Simple Port Scanner](./PROJECTS/beginner/simple-port-scanner)** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | `4-5h` | TCP sockets • Async I/O • Service detection |
+| **[Keylogger](./PROJECTS/beginner/keylogger)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `4-5h` | Event handling • File I/O • Ethics |
+| **[Caesar Cipher](./PROJECTS/beginner/caesar-cipher)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `4-5h` | Classical cryptography • Brute force • CLI |
+| **[DNS Lookup CLI Tool](./PROJECTS/beginner/dns-lookup)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `6-7h` | DNS protocols • WHOIS • Reverse DNS |
+| **[Simple Vulnerability Scanner](./PROJECTS/beginner/simple-vulnerability-scanner)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `12-14h` | CVE databases • Dependency scanning |
+| **[Metadata Scrubber Tool](./PROJECTS/beginner/metadata-scrubber-tool)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `10-12h` | EXIF data • Privacy protection • Batch ops |
+| **[Network Traffic Analyzer](./PROJECTS/beginner/network-traffic-analyzer)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | `10-12h` | Packet capture • Protocol analysis |
+| **[Hash Cracker](./PROJECTS/beginner/hash-cracker)** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | `5-6h` | Dictionary attacks • Hash algorithms |
+| **[Steganography Multi-Tool](./SYNOPSES/beginner/Steganography.Multi.Tool.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `8-10h` | LSB audio • Zero-width Unicode • QR |
+| **[Ghost on the Wire](./SYNOPSES/beginner/Ghost.On.The.Wire.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `6-8h` | ARP • MAC spoofing • MITM detection |
+| **[Canary Token Generator](./PROJECTS/beginner/canary-token-generator)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `8-10h` | Honeytokens • Deception defense |
+| **[Security News Scraper](./SYNOPSES/beginner/Security.News.Scraper.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `10-14h` | Web scraping • CVE parsing • DB storage |
+| **[Phishing Domain Generator](./SYNOPSES/beginner/Phishing.Domain.Generator.And.Quishing.Scanner.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `6-8h` | Homoglyphs • Typosquatting • QR phishing |
+| **[SSH Brute Force Detector](./SYNOPSES/beginner/SSH.Brute.Force.Detector.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2-4h` | Log parsing • Attack detection • iptables |
+| **[Simple C2 Beacon](./PROJECTS/beginner/c2-beacon)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `10-12h` | C2 architecture • MITRE ATT&CK • XOR |
+| **[Base64 Encoder/Decoder](./SYNOPSES/beginner/Base64.Encoder.Decoder.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2h` | Encoding formats • Auto-detection |
+| **[Linux CIS Hardening Auditor](./PROJECTS/beginner/linux-cis-hardening-auditor)** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square) | `6-8h` | CIS benchmarks • Compliance scoring |
+| **[Systemd Persistence Scanner](./PROJECTS/beginner/systemd-persistence-scanner)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `6-8h` | Persistence • Cron analysis • Threat hunt |
+| **[Linux eBPF Security Tracer](./PROJECTS/beginner/linux-ebpf-security-tracer)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) | `10-12h` | eBPF • Syscall tracing • BCC |
+| **[Trojan Application Builder](./SYNOPSES/beginner/Trojan.Application.Builder.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `8-10h` | Trojan anatomy • Data exfiltration |
+| **[DNS Sinkhole](./SYNOPSES/beginner/DNS.Sinkhole.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `10-12h` | DNS protocol • Blocklists • Network defense |
+| **[Firewall Rule Engine](./PROJECTS/beginner/firewall-rule-engine)** | ![V](https://img.shields.io/badge/-V_Lang-5D87BF?style=flat-square) | `6-8h` | iptables • nftables • Rule parsing |
+| **[LLM Prompt Injection Firewall](./SYNOPSES/beginner/LLM.Prompt.Injection.Firewall.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `8-10h` | AI security • Prompt injection • LLM defense |
+
+---
+
+### `[ TIER 2 ] — INTERMEDIATE`
+
+> Multi-day builds. Real architecture. Production thinking.
+
+| Project | Stack | Time | Core Concepts |
+|---------|-------|------|---------------|
+| **[Payload Obfuscation Engine](./SYNOPSES/intermediate/Payload.Obfuscation.Engine.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `3-5d` | AV evasion • Polymorphism • Obfuscation |
+| **[SIEM Dashboard](./PROJECTS/intermediate/siem-dashboard)** | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `3-5d` | Log correlation • Full-stack SIEM |
+| **[Token Abuse Playground](./SYNOPSES/intermediate/Token.Abuse.Playground.md)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) | `3-5d` | JWT exploitation • OAuth attacks |
+| **[Supply Chain Attack Simulator](./SYNOPSES/intermediate/Supply.Chain.Attack.Simulator.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2-4d` | Dependency confusion • PyPI internals |
+| **[DDoS Mitigation Tool](./SYNOPSES/intermediate/DDoS.Mitigation.Tool.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `2-4d` | Rate limiting • Anomaly detection |
+| **[Secrets Scanner](./PROJECTS/intermediate/secrets-scanner)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `1-2d` | Shannon entropy • HIBP k-anonymity |
+| **[API Security Scanner](./PROJECTS/intermediate/api-security-scanner)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `3-5d` | OWASP API Top 10 • ML fuzzing |
+| **[Wireless Deauth Detector](./SYNOPSES/intermediate/Wireless.Deauth.Detector.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | `2-4d` | WiFi attacks • Packet sniffing |
+| **[Credential Enumeration](./PROJECTS/intermediate/credential-enumeration)** | ![Nim](https://img.shields.io/badge/-Nim-FFE953?logo=nim&logoColor=black&style=flat-square) | `2-4d` | Browser forensics • Red team tooling |
+| **[Binary Analysis Tool](./PROJECTS/intermediate/binary-analysis-tool)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | `3-5d` | Disassembly • String extraction • Malware |
+| **[API Rate Limiter](./PROJECTS/advanced/api-rate-limiter)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square) | `3-5d` | Token bucket • Distributed systems |
+| **[Chaos Engineering Security Tool](./SYNOPSES/intermediate/Chaos.Engineering.Security.Tool.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `3-5d` | Resilience testing • Credential spraying |
+| **[Race Condition Exploiter](./SYNOPSES/intermediate/Race.Condition.Exploiter.md)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) | `3-5d` | TOCTOU attacks • Double-spend bugs |
+| **[DLP Scanner](./PROJECTS/intermediate/dlp-scanner)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2-4d` | PII detection • GDPR/HIPAA compliance |
+| **[Docker Security Audit](./PROJECTS/intermediate/docker-security-audit)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) | `1-2d` | CIS Docker benchmarks |
+| **[SBOM Generator](./PROJECTS/intermediate/sbom-generator-vulnerability-matcher)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `2-4d` | SPDX/CycloneDX • CVE matching |
+| **[JA3/JA4 TLS Fingerprinting](./SYNOPSES/intermediate/JA3.JA4.TLS.Fingerprinting.Tool.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | `2-4d` | TLS handshake • Bot detection |
+| **[Mobile App Security Analyzer](./SYNOPSES/intermediate/Mobile.App.Security.Analyzer.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `3-5d` | APK/IPA analysis • OWASP Mobile |
+| **[Subdomain Takeover Scanner](./SYNOPSES/intermediate/Subdomain.Takeover.Scanner.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `2-4d` | DNS enumeration • Bug bounty |
+| **[GraphQL Security Tester](./SYNOPSES/intermediate/GraphQL.Security.Tester.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `2-4d` | Introspection attacks • Auth bypass |
+| **[Privesc Playground](./SYNOPSES/intermediate/Privesc.Playground.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `3-5d` | SUID • Sudo abuse • GTFOBins |
+
+---
+
+### `[ TIER 3 ] — ADVANCED`
+
+> Weeks of engineering. Production-grade architecture. Real-world threat modeling.
+
+| Project | Stack | Time | Core Concepts |
+|---------|-------|------|---------------|
+| **[Encrypted P2P Chat](./PROJECTS/advanced/encrypted-p2p-chat)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) | `1-2w` | Signal Protocol • Double Ratchet • WebAuthn |
+| **[Exploit Development Framework](./SYNOPSES/advanced/Exploit.Development.Framework.md)** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | `3-4w` | Exploit dev • Payload generation |
+| **[AI Threat Detection](./PROJECTS/advanced/ai-threat-detection)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) | `3-4w` | ML ensemble • ONNX inference |
+| **[Bug Bounty Platform](./PROJECTS/advanced/bug-bounty-platform)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `2-3w` | Full-stack • CVSS scoring |
+| **[Cloud Security Compliance Dashboard](./SYNOPSES/advanced/Cloud.Security.Compliance.Dashboard.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&style=flat-square) | `2-3w` | CIS • SOC2 • HIPAA • Drift detection |
+| **[Malware Analysis Platform](./SYNOPSES/advanced/Malware.Analysis.Platform.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) | `2-3w` | Sandboxing • YARA rules • IOC extraction |
+| **[Quantum Resistant Encryption](./SYNOPSES/advanced/Quantum.Resistant.Encryption.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `3-4w` | Post-quantum • Kyber • Dilithium |
+| **[Zero Day Vulnerability Scanner](./SYNOPSES/advanced/Zero.Day.Vulnerability.Scanner.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) | `2-3w` | Coverage-guided fuzzing • Crash triage |
+| **[Distributed Password Cracker](./SYNOPSES/advanced/Distributed.Password.Cracker.md)** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&style=flat-square) | `3-4w` | GPU computing • Hash cracking |
+| **[Kernel Rootkit Detection](./SYNOPSES/advanced/Kernel.Rootkit.Detection.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | `2-3w` | Kernel internals • Memory forensics |
+| **[Blockchain Smart Contract Auditor](./SYNOPSES/advanced/Blockchain.Smart.Contract.Auditor.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=flat-square) | `3-4w` | Static analysis • Solidity security |
+| **[Adversarial ML Attacker](./SYNOPSES/advanced/Adversarial.ML.Attacker.md)** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) | `3-4w` | FGSM/DeepFool • Model robustness |
+| **[APT Simulator](./SYNOPSES/advanced/Advanced.Persistent.Threat.Simulator.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `3-4w` | APT kill chain • Lateral movement |
+| **[HSM Emulator](./PROJECTS/advanced/hsm-emulator)** | ![Zig](https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=white&style=flat-square) | `2-3w` | PKCS#11 • AES-GCM • RSA/ECDSA |
+| **[Network Covert Channel](./SYNOPSES/advanced/Network.Covert.Channel.md)** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | `3-4w` | Covert exfiltration • Steganography |
+| **[Automated Penetration Testing](./SYNOPSES/advanced/Automated.Penetration.Testing.md)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | `3-4w` | Recon to exploitation • Report gen |
+| **[Honeypot Network](./PROJECTS/advanced/honeypot-network)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) | `2-3w` | Deception • IOC extraction • MITRE |
+| **[Threat Situational Dashboard](./PROJECTS/advanced/monitor-the-situation-dashboard)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | `3-4w` | Threat intel • EPSS/KEV • 3D SOC globe |
+| **[Supply Chain Security Analyzer](./SYNOPSES/advanced/Supply.Chain.Security.Analyzer.md)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | `2-3w` | Malicious package detection |
+| **[Haskell Reverse Proxy](./PROJECTS/advanced/haskell-reverse-proxy)** | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square) | `2-3w` | Functional programming • WAF design |
+
+---
+
+## `> cat LANGUAGES.txt`
+
+```
+Python    ████████████████████  Primary
+Go        ██████████████░░░░░░  Heavy use
+Rust      ██████████░░░░░░░░░░  Systems
+C/C++     ████████░░░░░░░░░░░░  Low-level
+Bash      ██████░░░░░░░░░░░░░░  Automation
+React     ██████████░░░░░░░░░░  Frontend
+Nim       ████░░░░░░░░░░░░░░░░  Red team
+Zig       ████░░░░░░░░░░░░░░░░  Hardware
+```
+
+---
+
+## `> cat ROADMAPS.txt`
+
+10 career paths — each one a structured sequence of certifications and skills:
+
+```
+PATH 01 — SOC Analyst
+PATH 02 — Penetration Tester
+PATH 03 — Security Engineer
+PATH 04 — GRC Analyst
+PATH 05 — Cloud Security
+PATH 06 — Malware Analyst
+PATH 07 — Red Team Operator
+PATH 08 — Threat Intelligence
+PATH 09 — DevSecOps Engineer
+PATH 10 — Forensics & Incident Response
+```
+
+[View All Roadmaps](./ROADMAPS/README.md)
+
+---
+
+## `> cat LICENSE`
+
+```
+MIT License — Copyright (c) 2026 Sana Ullah
+
+Permission is granted to use, copy, modify, and distribute
+this software freely, provided attribution is maintained.
+
+Full license: ./LICENSE
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   Built and maintained by  Sana Ullah            ║
+║   github.com/sanaullahcode                       ║
+║                                                  ║
+║   Software Engineering | Cybersecurity | AI/ML   ║
+║   FUUAST Islamabad, Pakistan                     ║
+║                                                  ║
+║   "Security is not a product. It is a process."  ║
+║                              — Bruce Schneier    ║
+╚══════════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sanaullahcode&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
